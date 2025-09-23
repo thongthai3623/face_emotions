@@ -1,1 +1,1 @@
-print("Project detect face emotions")
+print("Test")
