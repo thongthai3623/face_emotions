@@ -1,4 +1,4 @@
-* Hướng dẫn sử dụng phần mềm python nhận diện cảm xúc trên khuôn mặt:
+* Hướng dẫn sử dụng phần mềm python nhận diện cảm xúc trên khuôn mặt: <br>
 1.Tải bộ dữ liệu fer2013 (hoặc có thể tải bộ dữ liệu tiên tiến hơn) <br>
 2.Tạo một số thư mục như icons chứa các hình ảnh cảm xúc,captures để lưu ảnh chụp,data để lưu bộ dữ liệu khuôn mặt <br>
 3.Dùng hàm main.py để chạy phần mềm:
@@ -20,6 +20,7 @@ if __name__ == '__main__':
 
 
 ![Hình ảnh 2](https://github.com/thongthai3623/face_emotions/blob/main/image/Screenshot%202025-09-25%20183657.png?raw=true)
+
 
 
 
