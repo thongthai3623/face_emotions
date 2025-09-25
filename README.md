@@ -14,3 +14,4 @@ if __name__ == '__main__':
     else:
         asyncio.run(app.run())
 
+https://github.com/thongthai3623/face_emotions/blob/main/image/Screenshot%202025-09-25%20183632.png
