@@ -14,8 +14,8 @@ if __name__ == '__main__':
     else:
         asyncio.run(app.run())
 
-![Hình ảnh 1]
-https://github.com/thongthai3623/face_emotions/blob/main/image/Screenshot%202025-09-25%20183632.png
+![Hình ảnh 1]https://github.com/thongthai3623/face_emotions/raw/main/image/Screenshot%202025-09-25%20183632.png
+
 
 
 
